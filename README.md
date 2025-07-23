@@ -30,8 +30,7 @@ A simple and fun Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play ag
 
 ## 📷 Screenshots 
 
-![Tic Tac Toe Screenshot](screenshot.png) <!-- Optional: upload a screenshot file in your repo -->
-
+![Tic Tac Toe Screenshot.png] 
 ---
 
 ## 🚀 How to Run Locally
